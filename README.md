@@ -1,5 +1,56 @@
-# 💫 About Me:
-<br>🎓 Élève-ingénieur généraliste à l’École Centrale Casablanca (3ᵉ année dès septembre), je mène des projets mêlant science des données, automatisation de workflows (n8n), cloud computing, vision par ordinateur et développement web.<br>🧠 Je conçois des agents intelligents, des interfaces web orientées performance métier, ainsi que des pipelines de données robustes et scalables.<br><br>🤝 Je cherche à collaborer sur<br>💼 Des projets à impact dans les domaines de l’intelligence artificielle, de la transformation numérique, de l’automatisation ou de la gestion technique de projet.<br><br>🤲 J’ai besoin d’échanger sur<br>🚀 L’industrialisation de pipelines Data / ML<br><br>☁️ Le déploiement cloud avec Docker & Airflow<br><br>🤖 L’intégration intelligente de systèmes IoT et agents IA<br><br>🌱 J’apprends actuellement<br>🔧 DevOps et conteneurisation (Docker, CI/CD)<br><br>📐 Architecture de données distribuées<br><br>🧩 Modélisation système (MBSE) avec Capella<br><br>👨‍💼 UX Design & expression des besoins utilisateurs<br><br>💬 Interrogez-moi sur<br>🤖 Automatisation avec n8n & agents IA<br><br>🛰️ Vision par ordinateur & traitement embarqué<br><br>⛓️ Orchestration de workflows (Airflow, GCP)<br><br>🧩 Ingénierie système (Capella)<br><br>📊 Data storytelling, dashboards & Power BI<br><br>⚡ Fait amusant<br>Je développe des systèmes capables de travailler pendant que je dors 😴.<br>Par exemple, mes agents IA planifient mes réunions et génèrent mes rapports pendant que je savoure un café ☕️.<br><br>🧭 "Construire des solutions utiles, scalables et intelligentes, c’est bien plus qu’un métier : c’est une manière d’agir sur le monde."<br><br>
+# 💫 À propos de moi
+
+🎓 Élève-ingénieur généraliste à l’École Centrale Casablanca (3ᵉ année dès septembre), je mène des projets mêlant **science des données**, **automatisation de workflows (n8n)**, **cloud computing**, **vision par ordinateur** et **développement web**.  
+🧠 Je conçois des **agents intelligents**, des interfaces web orientées performance métier, ainsi que des **pipelines de données robustes et scalables**.
+
+---
+
+## 🤝 Je cherche à collaborer sur
+
+💼 Des projets à impact dans les domaines de :  
+- **l’intelligence artificielle**  
+- **la transformation numérique**  
+- **l’automatisation**  
+- **la gestion technique de projet**
+
+---
+
+## 🤲 J’ai besoin d’échanger sur
+
+- 🚀 L’**industrialisation de pipelines Data / ML**  
+- ☁️ Le **déploiement cloud avec Docker & Airflow**  
+- 🤖 L’**intégration intelligente de systèmes IoT et d’agents IA**
+
+---
+
+## 🌱 J’apprends actuellement
+
+- 🔧 **DevOps** et **conteneurisation** (Docker, CI/CD)  
+- 📐 **Architecture de données distribuées**  
+- 🧩 **Modélisation système (MBSE)** avec Capella  
+- 👨‍💼 **UX Design** & **expression des besoins utilisateurs**
+
+---
+
+## 💬 Interrogez-moi sur
+
+- 🤖 **Automatisation avec n8n** & agents IA  
+- 🛰️ **Vision par ordinateur** & traitement embarqué  
+- ⛓️ **Orchestration de workflows** (Airflow, GCP)  
+- 🧩 **Ingénierie système** (Capella)  
+- 📊 **Data storytelling**, **dashboards** & **Power BI**
+
+---
+
+## ⚡ Fait amusant
+
+Je développe des systèmes capables de **travailler pendant que je dors** 😴.  
+Par exemple, mes agents IA planifient mes réunions et génèrent mes rapports pendant que je savoure un café ☕️.
+
+---
+
+> 🧭 *\"Construire des solutions utiles, scalables et intelligentes, c’est bien plus qu’un métier : c’est une manière d’agir sur le monde.\"*
+
 
 
 ## 🌐 Socials:
